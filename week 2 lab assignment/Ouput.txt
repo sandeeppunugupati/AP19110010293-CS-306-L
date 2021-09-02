@@ -1,0 +1,30 @@
+﻿int : keyword 
+t : identifier
+; 
+for : keyword 
+(
+i : identifier
+! 
+0: number
+,
+i : identifier
+<: relational operator LT
+t : identifier
+,
+i : identifier
++
++
+) 
+123: number
+ab : identifier
+ identifier 1 - 
+
+
+ identifier 2 -
+ identifier 3 - t
+ identifier 4 - »§20
+h
+ identifier 5 - ÿÞ
+ identifier 6 - i
+ identifier 7 - ab
+ identifier 8 -
